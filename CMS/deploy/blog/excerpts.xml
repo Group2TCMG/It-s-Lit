@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>
+        BASIC blog excerpts feed    </title>
+        <link href="/blog/excerpts.xml" rel="self" />
+    
+        <link href="/"/>
+    
+        
+    <updated>2018-01-27T00:19:37Z</updated>
+
+    <id>/blog/excerpts.xml/</id>
+
+            <entry>
+            <title type="html">Matthew Aslan Cole</title>
+            <author><name>Lakshmi Vyasarajan</name></author>
+            <link href="/blog/matthew_cole.html"/>
+            <updated>2018-01-25T10:00:00Z</updated>
+            <published>2018-01-25T10:00:00Z</published>
+            <id>/blog/matthew_cole.html</id>
+                        <category   scheme="/blog/tags"
+                        term="happy"
+                        label="Happy" />
+                        <category   scheme="/blog/tags"
+                        term="thoughts"
+                        label="Thoughts" />
+            
+            <content type="html">
+                &lt;p&gt;&lt;img alt=&#34;Zoey&#34; src=&#34;/media/images/zoey.jpg&#34; /&gt;&lt;/p&gt;
+                &lt;p&gt;This was way too much&amp;nbsp;fun.&lt;/p&gt;            </content>
+        </entry>
+            <entry>
+            <title type="html">Nicholas Beach Art Project</title>
+            <author><name>Lakshmi Vyasarajan</name></author>
+            <link href="/blog/nicholasbeach.html"/>
+            <updated>2011-01-01T10:00:00Z</updated>
+            <published>2011-01-01T10:00:00Z</published>
+            <id>/blog/nicholasbeach.html</id>
+                        <category   scheme="/blog/tags"
+                        term="angry"
+                        label="Angry" />
+                        <category   scheme="/blog/tags"
+                        term="thoughts"
+                        label="Thoughts" />
+            
+            <content type="html">
+                &lt;p&gt;&lt;img alt=&#34;Rose and Coffee&#34; src=&#34;/media/images/Rose.jpg&#34; /&gt;&lt;/p&gt;
+                            </content>
+        </entry>
+            <entry>
+            <title type="html"></title>
+            <author><name>Lakshmi Vyasarajan</name></author>
+            <link href="/blog/new%201.html"/>
+            <updated>2010-01-01T00:00:00Z</updated>
+            <published>2010-01-01T00:00:00Z</published>
+            <id>/blog/new%201.html</id>
+            
+            <content type="html">
+                
+                            </content>
+        </entry>
+            <entry>
+            <title type="html">Colin with 1 l</title>
+            <author><name>Lakshmi Vyasarajan</name></author>
+            <link href="/blog/colingibbons.html"/>
+            <updated>1995-03-07T01:23:45Z</updated>
+            <published>1995-03-07T01:23:45Z</published>
+            <id>/blog/colingibbons.html</id>
+                        <category   scheme="/blog/tags"
+                        term="happy"
+                        label="Happy" />
+                        <category   scheme="/blog/tags"
+                        term="thoughts"
+                        label="Thoughts" />
+            
+            <content type="html">
+                &lt;p&gt;&lt;img alt=&#34;Airport&#34; src=&#34;/media/images/colin-puppy.jpg&#34; /&gt;&lt;/p&gt;
+                &lt;p&gt;Colin Gibbons&amp;#8217;&amp;nbsp;page.&lt;/p&gt;            </content>
+        </entry>
+            <entry>
+            <title type="html">A Collin Post</title>
+            <author><name>Lakshmi Vyasarajan</name></author>
+            <link href="/blog/collin.html"/>
+            <updated>1989-08-05T10:00:00Z</updated>
+            <published>1989-08-05T10:00:00Z</published>
+            <id>/blog/collin.html</id>
+                        <category   scheme="/blog/tags"
+                        term="angry"
+                        label="Angry" />
+                        <category   scheme="/blog/tags"
+                        term="thoughts"
+                        label="Thoughts" />
+            
+            <content type="html">
+                &lt;p&gt;&lt;img alt=&#34;Collin&#34; src=&#34;/media/images/collin2.jpg&#34; /&gt;&lt;/p&gt;
+                &lt;p&gt;Collin is a pretty neat&amp;nbsp;guy.&lt;/p&gt;            </content>
+        </entry>
+    </feed>
